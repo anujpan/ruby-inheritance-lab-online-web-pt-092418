@@ -1,6 +1,6 @@
 class Student < User
 
-  def learn
+  def learn(knowledge)
     
   end
 end
